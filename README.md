@@ -1,5 +1,6 @@
 ## Hi there 👋
 - Working on FIKS competition
+- Programming in C#
 - Learning C++
 - Studying Highschool called Gymnázium Písincká 
 
