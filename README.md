@@ -1,4 +1,8 @@
 ## Hi there 👋
+- Working on FIKS competition
+- Learning C++
+- Studying Highschool called Gymnázium Písincká 
+
 
 <!--
 **Maskop/Maskop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
